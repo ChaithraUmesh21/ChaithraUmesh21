@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ChaithraUmesh21
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Information Technology
+- 🌱 I’m currently learning AWS,Python,FrontEnd.
+- 💞️ I’m looking to collaborate on GitHub
+- 📫 How to reach me - Chaithraumesh.96@gmail.com
+- 
 
 <!---
 ChaithraUmesh21/ChaithraUmesh21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
