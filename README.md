@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChaithraUmesh21
+- 👋 Hi, I’m @Chaithra Umesh
 - 👀 I’m interested in Information Technology
 - 🌱 I’m currently learning AWS,Python,FrontEnd.
 - 💞️ I’m looking to collaborate on GitHub
